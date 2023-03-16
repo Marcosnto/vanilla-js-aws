@@ -32,7 +32,7 @@ body {
   grid-column: 3 / 5;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  background: #fb5;
+  background: rgb(0, 213, 255);
 }
 
 .menu ul {
@@ -89,7 +89,7 @@ body {
     width: 40px;
     height: 10px;
     margin-right: 10px;
-    background-color: #fb5;
+    background-color: rgb(0, 213, 255);
 }
 
 .animals p {
@@ -109,7 +109,7 @@ body {
 }
 
 .animals-list::-webkit-scrollbar-thumb {
-    background: #fb5;
+    background: rgb(0, 213, 255);
     border-left: 4px solid #faf6ed;
     border-right: 4px solid #faf6ed;
 }
@@ -144,7 +144,7 @@ body {
     width: 20px;
     height: 10px;
     margin-right: 10px;
-    background: #fb5;
+    background: rgb(0, 213, 255);
 }
 
 .faq-list dd {
@@ -172,13 +172,13 @@ body {
     width: 20px;
     height: 10px;
     margin-right: 10px;
-    background-color: #fb5;
+    background-color: rgb(0, 213, 255);
 }
 
 .copy {
     grid-column: 3/5;
     margin-bottom: 2rem;
-    background-color: #fb5;
+    background-color: rgb(0, 213, 255);
 }
 
 .copy p {
