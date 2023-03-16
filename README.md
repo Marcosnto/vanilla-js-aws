@@ -1,6 +1,6 @@
 # Animais Fantásticos 
 
-Static page about fantastics animals.
+Static page about fantastic animals.
 
 ## Languages
 
