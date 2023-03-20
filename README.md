@@ -2,6 +2,8 @@
 
 Static page about fantastic animals.
 
+<p>Project made studying on <a href="https://www.origamid.com/">Origamid</a> course and <a href="https://frontendmasters.com/courses/">FrontendMasters</a></p>
+
 ## Languages
 
 <ul>
@@ -14,5 +16,7 @@ Static page about fantastic animals.
 
 <ul>
 <li>Github Actions</li>
-<li>AWS: S3 buckets and CloudFront</li>
+<li>AWS: S3 buckets, CloudFront, Lambda@Edge, CloudFuncions</li>
 </ul>
+
+
