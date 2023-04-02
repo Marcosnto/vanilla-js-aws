@@ -7,16 +7,16 @@ Static page about fantastic animals.
 ## Languages
 
 <ul>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>JavaScript</li>
+<li><a href="https://developer.mozilla.org/pt-BR/docs/Glossary/W3C">HTML5</a></li>
+<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a></li>
+<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a></li>
 </ul>
 
 ## Deploy
 
 <ul>
-<li>Github Actions</li>
-<li>AWS: S3 buckets, CloudFront, Lambda@Edge, CloudFuncions</li>
+<li><a href="https://github.com/features/actions">Github Actions</a></li>
+<li><a href="https://aws.amazon.com/">AWS: S3 buckets, CloudFront, Lambda@Edge, CloudFuncions</a></li>
 </ul>
 
 
